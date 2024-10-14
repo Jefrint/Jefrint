@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Jefrin, a passionate software engineer with a strong focus on web development. <br>I enjoy building scalable and efficient web applications, with expertise in both frontend and backend technologies. <br>I'm always eager to learn and take on new challenges to improve my skills and create impactful solutions.<br>
 
-Here is My Portfolio <a href="jefrinthomas.me">JJefrin</a>
+Here is My Portfolio <a href="jefrinthomas.me">Jefrin</a>
 
 
 
